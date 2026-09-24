@@ -1,1 +1,2 @@
 use full for finding the humans emotional
+also use full for finding the humans feelings
